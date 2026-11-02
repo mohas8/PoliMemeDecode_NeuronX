@@ -22,13 +22,13 @@
 ## About This Mirror
 
 This repository is a mirror of Team NeuronX's PoliMemeDecode competition
-repository, kept on my profile for portfolio purposes. The original
-repository, with all of its original commits and dates, is:
+repository, kept on my profile for portfolio purposes. Refer to the team repository:
 https://github.com/Sayeem-Velocity/PoliMemeDecode_NeuronX
 
 **Team NeuronX** — authors of "RajneetiDrishti: A Two-Stage Vision-Language
 Ensemble Framework for Political Meme Classification", presented in the
 final round of the PoliMemeDecode Datathon at CUET CSE Fest 2025:
+
 ## About This Mirror
 
 This repository is a mirror of Team NeuronX's PoliMemeDecode competition
@@ -48,18 +48,6 @@ final round of the PoliMemeDecode Datathon at CUET CSE Fest 2025:
 **Result:** 3rd on the Public Leaderboard, 1st on the Private Leaderboard,
 4th overall out of 152 teams (93.7% Macro F1 public, 89.6% Macro F1 private).
 
-All other commits in this repository are the original repository's commits,
-unchanged, with their original authors and dates.
-
-- S.M. Shahriar Sayeem — Chittagong University of Engineering and Technology
-- Sabit Ahamed Preanto — Daffodil International University
-- Eiamin Hassan Shanto — Daffodil International University
-
-**Result:** 3rd on the Public Leaderboard, 1st on the Private Leaderboard,
-4th overall out of 152 teams (93.7% Macro F1 public, 89.6% Macro F1 private).
-
-All other commits in this repository are the original repository's commits,
-unchanged, with their original authors and dates.
 
 ## Overview
 
